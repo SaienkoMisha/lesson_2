@@ -1,0 +1,37 @@
+.first{
+    background-color: #3498DB;
+}
+.second{
+    background-color: #8E44AD;
+}
+.third{
+    background-color: #16A085;
+}
+.apple{
+    width: 250px;
+}
+.apple{
+    width: 100px;
+}
+.microsoft{
+    width: 100px;
+}
+.samsung{
+    width: 100px;
+}
+.amazon{
+    width: 100px;
+}
+.facebook{
+    width: 100px;
+}
+.saitu img{
+    margin: 7px;
+}
+.saitu a{
+    text-decoration: none;
+}
+.text p{
+    margin: 30px 15px;
+    padding: 5px 40px 15px 25px;
+}
